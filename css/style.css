@@ -195,6 +195,14 @@ header {
   z-index: 999;
   padding: 24px 0px;
 }
+header .logo h1 {
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+header .logo h1 samp {
+  font-weight: 900;
+  color: var(--button-color);
+}
 header nav {
   position: fixed;
   top: 0px;
